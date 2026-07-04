@@ -1,0 +1,12 @@
+﻿venv/
+venv310/
+env/
+*.venv
+__pycache__/
+*.pyc
+*.pyo
+drawing_*.png
+output/
+.vscode/
+.idea/
+hand_landmarker.task
